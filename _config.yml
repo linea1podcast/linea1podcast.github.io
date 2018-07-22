@@ -1,0 +1,13 @@
+title: Linea1 Podcast
+email: contacto@linea1podcast.com
+description: >-
+  Blog de linea1podcast
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: linea1podcast
+github_username:  linea1podcast
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
